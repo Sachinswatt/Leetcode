@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachinswatt/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinswatt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sachinswatt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1920-build-array-from-permutation](https://github.com/Sachinswatt/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachinswatt/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinswatt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sachinswatt/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinswatt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
