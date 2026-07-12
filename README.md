@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sachinswatt/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sachinswatt/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Sorting
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sachinswatt/Leetcode/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sachinswatt/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
