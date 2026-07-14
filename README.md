@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sachinswatt/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Sachinswatt/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
