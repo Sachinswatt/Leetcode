@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sachinswatt/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Sachinswatt/Leetcode/tree/master/0066-plus-one) |
+| [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sachinswatt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sachinswatt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sachinswatt/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sachinswatt/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0137-single-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |
