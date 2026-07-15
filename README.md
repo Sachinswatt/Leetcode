@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinswatt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sachinswatt/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Sachinswatt/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Sachinswatt/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sachinswatt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sachinswatt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sachinswatt/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sachinswatt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinswatt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Sachinswatt/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sachinswatt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
