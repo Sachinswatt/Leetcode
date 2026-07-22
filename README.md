@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sachinswatt/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Sachinswatt/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sachinswatt/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sachinswatt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sachinswatt/Leetcode/tree/master/0039-combination-sum) |
 ## Recursion
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sachinswatt/Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
