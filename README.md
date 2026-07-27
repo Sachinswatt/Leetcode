@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sachinswatt/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Sachinswatt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sachinswatt/Leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sachinswatt/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Sachinswatt/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0137-single-number-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Sachinswatt/Leetcode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Sachinswatt/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sachinswatt/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sachinswatt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sachinswatt/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/Sachinswatt/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sachinswatt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
