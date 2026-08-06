@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sachinswatt/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Sachinswatt/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sachinswatt/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sachinswatt/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sachinswatt/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -167,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sachinswatt/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sachinswatt/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Sachinswatt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Sachinswatt/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sachinswatt/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sachinswatt/Leetcode/tree/master/0055-jump-game) |
 ## Queue
 |  |
 | ------- |
