@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sachinswatt/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sachinswatt/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sachinswatt/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sachinswatt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sachinswatt/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sachinswatt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sachinswatt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sachinswatt/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sachinswatt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Sachinswatt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Sachinswatt/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sachinswatt/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sachinswatt/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sachinswatt/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
