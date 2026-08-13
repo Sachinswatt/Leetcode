@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sachinswatt/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sachinswatt/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sachinswatt/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sachinswatt/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sachinswatt/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sachinswatt/Leetcode/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Sachinswatt/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sachinswatt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Sachinswatt/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sachinswatt/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sachinswatt/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sachinswatt/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sachinswatt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Sachinswatt/Leetcode/tree/master/0242-valid-anagram) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sachinswatt/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sachinswatt/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
