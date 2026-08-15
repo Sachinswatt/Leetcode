@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sachinswatt/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sachinswatt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Sachinswatt/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sachinswatt/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sachinswatt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sachinswatt/Leetcode/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachinswatt/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sachinswatt/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sachinswatt/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sachinswatt/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sachinswatt/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sachinswatt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sachinswatt/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sachinswatt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachinswatt/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Sachinswatt/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sachinswatt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sachinswatt/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sachinswatt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sachinswatt/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sachinswatt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Sachinswatt/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Stack
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sachinswatt/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachinswatt/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
