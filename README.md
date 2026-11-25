@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sachinswatt/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachinswatt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sachinswatt/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sachinswatt/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sachinswatt/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Sachinswatt/Leetcode/tree/master/0509-fibonacci-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sachinswatt/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sachinswatt/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sachinswatt/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Sachinswatt/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sachinswatt/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sachinswatt/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sachinswatt/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sachinswatt/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Sachinswatt/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sachinswatt/Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
